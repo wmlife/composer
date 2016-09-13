@@ -4,3 +4,5 @@ use app\controller\user;
 
 $obj = new User;
 $obj->show();
+
+echo "ok";
